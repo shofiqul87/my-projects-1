@@ -1,0 +1,44 @@
+*{
+  
+  font-family: Sans-Serif;
+}
+
+
+#heading{
+  color:#fff;
+  text-shadow: 4px 2px 2px #777;
+  
+
+}
+#btn{
+ cursor: pointer;
+ user-select: none;
+ color:#fff;
+ font-weight: bold;
+ width: 100%;
+}
+#btn:hover{
+ box-shadow: 2px 0px 6px #777;
+}
+table{
+  
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 10px;
+  border:none;
+}
+#booklist,tr,th{
+ border: 2px solid #fff;
+  border-collapse: collapse;
+  margin-top: 10px;
+color:forestgreen;
+}
+table th{
+  background:linear-gradient(#000,#262626);
+  border:none;
+  padding: 0;
+}
+
+input{
+  background-color: #FFF;
+}
